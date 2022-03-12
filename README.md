@@ -67,5 +67,5 @@ Kategoria: Fantasy (Gatunek literacki lub filmowy używający magicznych i innyc
 ## Zadanie domowe
 Przeczyść swój kod - na następne zajęcia Twoje klasy powinny posiadać tylko i wyłącznie:
 * prywatne pola
-* konstruktor
+* konstruktor (bez wypisywania komunikatów)
 * publiczną metodę `show`
